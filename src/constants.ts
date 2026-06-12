@@ -6,8 +6,8 @@
 export const APP_NAME = "五行战将 (Wuxing Zhanjiang)";
 export const SUPPORT_EMAIL = "bobojensen@163.com";
 export const DEVELOPER_NAME = "The0dore";
-export const JURISDICTION = "[YOUR_JURISDICTION]";
-export const LAST_UPDATED_DATE = "2026-05-16";
+export const JURISDICTION = "United States";
+export const LAST_UPDATED_DATE = "2026-06-12";
 export const APP_STORE_ID = "[YOUR_APP_ID]";
 export const APP_STORE_URL = `https://apps.apple.com/app/id${APP_STORE_ID}`;
 export const YEAR = new Date().getFullYear();
