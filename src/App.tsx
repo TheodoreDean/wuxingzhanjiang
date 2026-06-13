@@ -16,7 +16,7 @@ import { LanguageProvider } from "./context/LanguageContext";
 export default function App() {
   return (
     <LanguageProvider>
-      <Router>
+      <Router basename="/wuxingzhanjiang">
         <Layout>
           <Routes>
             <Route path="/" element={<Home />} />
