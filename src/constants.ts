@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-export const APP_NAME = "五行战将 (Wuxing Zhanjiang)";
+export const APP_NAME = "Wuxing Zhanjiang";
 export const SUPPORT_EMAIL = "bobojensen@163.com";
 export const DEVELOPER_NAME = "The0dore";
 export const JURISDICTION = "United States";

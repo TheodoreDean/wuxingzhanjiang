@@ -65,9 +65,9 @@ export default function Home() {
           >
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 lg:gap-10">
               {[
-                { src: "/screenshot_1.png", alt: "Gameplay Level 6" },
-                { src: "/screenshot_2.png", alt: "Card Playing Battle" },
-                { src: "/screenshot_3.png", alt: "In-game Shop" },
+                { src: `${import.meta.env.BASE_URL}screenshot_1.png`, alt: "Gameplay Level 6" },
+                { src: `${import.meta.env.BASE_URL}screenshot_2.png`, alt: "Card Playing Battle" },
+                { src: `${import.meta.env.BASE_URL}screenshot_3.png`, alt: "In-game Shop" },
               ].map((img, i) => (
                 <motion.div
                   key={i}
